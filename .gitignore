@@ -8,3 +8,9 @@ crash.*.log
 *.tfvars.json
 .terraformrc
 terraform.rc
+
+# Claude local settings and secrets
+.claude/settings.local.json
+
+# Claude subagent project memory (machine-generated)
+.claude/agent-memory/
