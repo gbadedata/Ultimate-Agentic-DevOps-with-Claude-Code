@@ -14,3 +14,6 @@ terraform.rc
 
 # Claude subagent project memory (machine-generated)
 .claude/agent-memory/
+
+# Claude hook runtime log (machine-generated)
+.claude/deploy.log
